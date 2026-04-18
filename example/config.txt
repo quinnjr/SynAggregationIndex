@@ -1,0 +1,2 @@
+Prefix plugins/SynAggregationIndex/example
+Plugin SynAggregationIndex inputfile parameters.synagg.txt outputfile agg_index.tsv

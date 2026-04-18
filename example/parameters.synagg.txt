@@ -1,0 +1,4 @@
+oligomer	demo_oligomer.csv
+monomer	demo_monomer.csv
+log_inputs	false
+zero_guard	1e-6
